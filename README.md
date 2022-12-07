@@ -2,6 +2,18 @@
 This is a To-do List manager dynamic website .
 This is a website where you can list down and manager your daily routine.
 
+
+## Key Features
+- Add task 
+- Update task
+- Delete Task
+Note - USP of this To-Do list manager is that your task will not delete permanently. 
+
+## Future Updates
+- Login / Signin feature so that every one can use this for their own work station
+- Have a calender view type interface so that any one can manage a task for a month(this helps companies for compliting projects)
+- Have a workstation for every user 
+
 ## Technologies used
 
 ### Frontend / Client side
