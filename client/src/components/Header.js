@@ -6,7 +6,7 @@ const Header = () => {
 
     return (
         <header>
-            <h1>TodoList Manager</h1>
+            <h1>Work Flow Manager</h1>
         </header>
     )
 }
