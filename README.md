@@ -6,8 +6,7 @@ This is a website where you can list down and manager your daily routine.
 
 ### Frontend / Client side
 - [react.js](https://reactjs.org/)
-- [bootstrap](https://getbootstrap.com/)
-- [css3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [redux.js](https://redux.js.org/)
 
 ### Backend / Server side
 - [node.js](https://nodejs.org/en/)
