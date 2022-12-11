@@ -1,6 +1,6 @@
 # ToDo List Manager
-This is a To-do List manager dynamic website .
-This is a website where you can list down and manager your daily routine.
+This is a To-do List manager dynamic website developed using the MERN stack.<br>
+This is a website where you can list down and manage your daily routine.
 
 
 ## Key Features
