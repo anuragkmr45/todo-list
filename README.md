@@ -6,7 +6,7 @@ This is a website where you can list down and manager your daily routine.
 ## Key Features
 - Add task 
 - Update task
-- Delete Task
+- Delete Task<br>
 Note - USP of this To-Do list manager is that your task will not delete permanently. 
 
 ## Future Updates
